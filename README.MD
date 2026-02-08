@@ -140,6 +140,3 @@ API_URL = (
 )
 ```
 
-## License
-
-MIT

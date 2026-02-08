@@ -4,7 +4,7 @@ A lightweight [Argos](https://github.com/p-e-w/argos) plugin that scrapes live 2
 
 ![GNOME Top Bar](https://img.shields.io/badge/GNOME-Top_Bar-4A86CF?logo=gnome&logoColor=white)
 ![Python 3](https://img.shields.io/badge/Python-3.6+-3776AB?logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ## Features
 

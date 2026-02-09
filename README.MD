@@ -8,7 +8,7 @@ A lightweight [Argos](https://github.com/p-e-w/argos) plugin that scrapes 2026 W
 
 ## Features
 
-- 🏔️ Live medal counts for the Milano Cortina 2026 Winter Olympics
+- 🏔️ Live(ish) medal counts for the Milano Cortina 2026 Winter Olympics
 - 📊 Full medal table dropdown with all competing nations
 - 🇺🇸 Highlights your country in the top bar (configurable)
 - 🔄 Auto-refreshes every 10 minutes (configurable via filename)

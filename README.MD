@@ -1,6 +1,6 @@
 # Olympic Medal Tracker for GNOME
 
-A lightweight [Argos](https://github.com/p-e-w/argos) plugin that scrapes live 2026 Winter Olympics medal counts from Wikipedia and displays them in your GNOME top bar.
+A lightweight [Argos](https://github.com/p-e-w/argos) plugin that scrapes 2026 Winter Olympics medal counts from Wikipedia and displays them in your GNOME top bar.
 
 ![GNOME Top Bar](https://img.shields.io/badge/GNOME-Top_Bar-4A86CF?logo=gnome&logoColor=white)
 ![Python 3](https://img.shields.io/badge/Python-3.6+-3776AB?logo=python&logoColor=white)
